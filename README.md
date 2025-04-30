@@ -73,7 +73,7 @@ bash ``` chmod u+x secure_server.sh ```
 
 ## Run
 
-bash ``` ./secure_server.sh ```
+bash ``` sudo ./secure_server.sh ```
 
 ### Options
 | Flag          | Description                              |
